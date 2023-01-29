@@ -1,4 +1,4 @@
-/* * Data converted from c:\projects\esp32_scan_resp\repo\platformio\.pio\build\esp32dev\x509_crt_bundle
+/* * Data converted from C:\projects\esp32_scan_resp\repo\platformio\.pio\build\esp32dev\x509_crt_bundle
  */
 .data
 .section .rodata.embedded

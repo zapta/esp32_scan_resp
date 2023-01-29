@@ -236,7 +236,7 @@ ENABLE_TESTING:BOOL=
 ENABLE_ZLIB_SUPPORT:BOOL=OFF
 
 //No help, variable specified on the command line.
-EXTRA_COMPONENT_DIRS:PATH=c:/projects/esp32_scan_resp/repo/platformio/src
+EXTRA_COMPONENT_DIRS:PATH=C:/projects/esp32_scan_resp/repo/platformio/src
 
 //Git command line client
 GIT_EXECUTABLE:FILEPATH=C:/Program Files/Git/cmd/git.exe
@@ -266,7 +266,7 @@ PYTHON:UNINITIALIZED=C:\Users\user\.platformio\penv\Scripts\python.exe
 PYTHON_DEPS_CHECKED:UNINITIALIZED=1
 
 //No help, variable specified on the command line.
-SDKCONFIG:UNINITIALIZED=c:\projects\esp32_scan_resp\repo\platformio\sdkconfig.esp32dev
+SDKCONFIG:UNINITIALIZED=C:\projects\esp32_scan_resp\repo\platformio\sdkconfig.esp32dev
 
 //Allow unsafe builds. These builds ARE NOT SECURE.
 UNSAFE_BUILD:BOOL=OFF

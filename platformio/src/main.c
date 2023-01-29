@@ -25,7 +25,7 @@ static esp_ble_adv_data_t adv_data = {
 static uint8_t manufacturer_data[6] = {0xE5, 0x02, 0x01, 0x01, 0x01, 0x01};
 static esp_ble_adv_data_t scan_rsp_data = {
     .set_scan_rsp = true,
-    .manufacturer_len = 6,
+    .manufacturer_len = sizeof(manufacturer_data),
     .p_manufacturer_data = manufacturer_data,
 };
 
